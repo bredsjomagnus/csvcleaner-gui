@@ -1,0 +1,10 @@
+{
+    "mylaps": {
+        "name": "mylaps",
+        "header": ["#", "no", "name", "laps", "lead", "lap_time", "speed", "elapsed_time", "passing_time", "hits", "strength", "noice", "photocell_time", "transponder", "backup_tx", "backup_passing_time", "class", "deleted"],
+        "datatypes_ex": [1, 1, "str", 1, 1, "str", 1.1, "str", "str", 1, 1, 1, "str", 1, 1, "str", "str", "str"],
+        "datatypes": ["int", "int", "str", "int", "int", "str", "float", "str", "str", "int", "int", "int", "str", "int", "int", "str", "str", "str"]
+    }
+    
+}
+
