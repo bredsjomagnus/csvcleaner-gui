@@ -5,7 +5,7 @@ asn1crypto==0.24.0
 astroid==2.1.0
 backcall==0.1.0
 beautifulsoup4==4.6.0
-bleach==2.1.4
+bleach==3.1.4
 blinker==1.4
 Brlapi==0.6.6
 cachetools==2.1.0
