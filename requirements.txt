@@ -15,7 +15,7 @@ checkbox-support==0.22
 colorama==0.4.1
 command-not-found==0.3
 coverage==4.5.2
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 decorator==4.3.0
